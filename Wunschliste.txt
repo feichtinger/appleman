@@ -1,0 +1,9 @@
+Wunschliste für appleman:
+
+
+# mehr Farbschemata
+# Fortschritt auch im Vollbildmodus sichtbar
+# Tastkürzel für Actions zum Laufen bringen
+# Anti-Aliasing-Filter (zb. Medianfilter mit 3x3 Maske)
+# Bereiche die lange zum Rechnen brauchen weiter unterteilen (zb. vierteln) und in weitere Threads stecken.
+
